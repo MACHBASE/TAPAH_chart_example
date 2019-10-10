@@ -1,0 +1,1 @@
+$MACHBASE_HOME/webadmin/flask/Python/bin/python append.py
